@@ -1,10 +1,4 @@
-# LLM-TabularReasoning
-Tabular Reasoning Using LLMs
-
-<meta name="google-site-verification" content="o6EAe6Jioz-iYWcjlDJ5EnsYsaGwKOHXrb6cc0oPUwQ" />
-
-# LLMs for Reasoning Tasks
-
+# LLMs for Tabular Reasoning
 
 This repository is a collection of resources and papers on LLMs for Tabular Reasoning tasks
 
@@ -38,21 +32,23 @@ ICLR 2023 [[Paper](https://arxiv.org/pdf/2209.14610.pdf)]
 
 
 ## Benchmarking DataSets For Reasoning Tasks
+####
+####
 
 ## Tools
 
 #### TableQA
 
 #### TAPAS
-[[Github](https://github.com/openbiolink/thoughtsource)] 
-[[Datasets](https://github.com/openbiolink/thoughtsource#available-datasets)]
+[[Github](...)] 
+[[Datasets](...)]
 
 
 ## Articles 
 
-#### Boosting Tabular Data Predictions with Large Language Models
-#### Applying Large Language Models to Tabular Data to Identify Drift
-#### Solving Question-Answering on Tabular Data: A Comparison, 2021
+#### Boosting Tabular Data Predictions with Large Language Models [[link](https://towardsdatascience.com/boosting-tabular-data-predictions-with-large-language-models-531337f834dc)]
+#### Applying Large Language Models to Tabular Data to Identify Drift [[link](https://towardsdatascience.com/applying-large-language-models-to-tabular-data-to-identify-drift-54c9fa59255f)]
+#### Solving Question-Answering on Tabular Data: A Comparison, 2021 [[link](https://blog.paperspace.com/tapas-question-answering/)]
 
 
 
