@@ -20,11 +20,6 @@ Yunhu Ye et.al.
 
 SIGIR 2023 [[Paper](https://arxiv.org/pdf/2301.13808.pdf)]
 
-#### Making Language Models Better Reasoners with Step-Aware Verifier 
-Yifei Li et. al. 
-
-ACL 2023 [[Paper](https://aclanthology.org/2023.acl-long.291.pdf)]
-
 #### Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning
 Pan Lu et.al. 
 
