@@ -31,17 +31,17 @@ Pan Lu et.al.
 ICLR 2023 [[Paper](https://arxiv.org/pdf/2209.14610.pdf)]
 
 
-## Benchmarking DataSets For Reasoning Tasks
+## Benchmarking DataSets 
 ####
 ####
 
 ## Tools
 
 #### TableQA
+[[Python Package](https://pypi.org/project/tableqa/)]
 
 #### TAPAS
-[[Github](...)] 
-[[Datasets](...)]
+[[Huggingface](https://huggingface.co/docs/transformers/model_doc/tapas)] 
 
 
 ## Articles 
