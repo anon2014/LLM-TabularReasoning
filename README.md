@@ -49,10 +49,3 @@ ICLR 2023 [[Paper](https://arxiv.org/pdf/2209.14610.pdf)]
 #### Boosting Tabular Data Predictions with Large Language Models [[link](https://towardsdatascience.com/boosting-tabular-data-predictions-with-large-language-models-531337f834dc)]
 #### Applying Large Language Models to Tabular Data to Identify Drift [[link](https://towardsdatascience.com/applying-large-language-models-to-tabular-data-to-identify-drift-54c9fa59255f)]
 #### Solving Question-Answering on Tabular Data: A Comparison, 2021 [[link](https://blog.paperspace.com/tapas-question-answering/)]
-
-
-
-#### https://github.com/Xpitfire/symbolicai
-
-#### https://ec.ai/blog/the-second-half-of-the-ai-puzzle-adding-logical-validation-and-reasoning-to-llms
-
